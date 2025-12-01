@@ -34,7 +34,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto px-6 md:px-12 lg:px-24 flex justify-between items-center">
         {/* Logo */}
         <a href="#home" className="text-2xl font-bold tracking-tighter text-white z-50">
-          Yassine<span className="text-primary">.tech</span>
+          YassineEchamkh<span className="text-primary">.tech</span>
         </a>
 
         {/* Desktop Menu */}

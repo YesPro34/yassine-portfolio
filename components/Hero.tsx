@@ -46,9 +46,9 @@ const Hero: React.FC = () => {
                 Hire me <ArrowRight className="ml-2 w-5 h-5" />
               </NeonButton>
               
-              <NeonButton variant="secondary" href="/cv.pdf" download>
+              {/* <NeonButton variant="secondary" href="/resume.pdf">
                 Download CV <Download className="ml-2 w-5 h-5" />
-              </NeonButton>
+              </NeonButton> */}
             </div>
           </motion.div>
         </div>
@@ -93,7 +93,7 @@ const Hero: React.FC = () => {
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                    <div className="relative w-full h-full  rounded-full border-4 border-primary/50 overflow-hidden shadow-[0_0_30px_rgba(139,92,246,0.5)]">
                      <img 
-                       src="public/img.png" 
+                       src="/img.png" 
                        alt={PERSONAL_INFO.name}
                      />
                    </div>
