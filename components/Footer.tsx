@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
         <div className="grid md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-2">
             <h2 className="text-2xl font-bold text-white mb-6">
-              YassineEchamkh<span className="text-primary">.dev</span>
+              YassineEchamkh<span className="text-primary">.me</span>
             </h2>
             <p className="text-gray-400 max-w-sm leading-relaxed mb-6">
               Building digital experiences with modern technologies. 
