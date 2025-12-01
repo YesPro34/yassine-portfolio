@@ -1,16 +1,5 @@
-# Run and deploy your AI Studio app
+✨ My Portfolio Website
 
-This contains everything you need to run your app locally.
+This is my personal portfolio — a modern, responsive website created to showcase my experience, technical skills, projects, and background as a software engineer.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1J0iULEF_Nb7WEAAIamLkDqa4ClZZijLP
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The portfolio presents who I am, what I’ve worked on, and what I can bring to a team. It includes my biography, professional journey, and selected work that reflects my capabilities in both backend and frontend development.
