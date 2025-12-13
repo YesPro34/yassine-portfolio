@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
              href="mailto:echamkh.yassine@gmail.com"
              className="ml-4 px-4 py-2 text-sm font-medium text-white bg-white/10 rounded-full hover:bg-white/20 transition-all border border-white/10"
           >
-            Hire Me
+            Contact Me
           </a>
         </div>
 

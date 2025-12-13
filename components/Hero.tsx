@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-wrap gap-4">
               <NeonButton href="mailto:echamkh.yassine@gmail.com">
-                Hire me <ArrowRight className="ml-2 w-5 h-5" />
+                Contact me <ArrowRight className="ml-2 w-5 h-5" />
               </NeonButton>
               
               {/* <NeonButton variant="secondary" href="/resume.pdf">
