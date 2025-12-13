@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-4 text-gray-400">
               <li>Email :echamkh.yassine@gmail.com</li>
               <li>Address: Agadir, Morocco</li>
-              <li>whatsapp :  +212 636-071810</li>
+              <li>whatsapp :  +212 777953180</li>
               <li className="text-accent">Open for opportunities</li>
             </ul>
           </div>

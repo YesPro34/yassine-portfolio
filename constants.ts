@@ -87,22 +87,39 @@ export const SKILLS: SkillCategory[] = [
 
 export const PROJECTS: Project[] = [
   {
+    title: "Iron Wheels",
+    description: "Web platform for centralized and automated management of admissions to major schools and universities.",
+    tech: ["Nest.js", "Next.js", "PostgreSQL"],
+    type: "Mobile & Web platform",
+    image : "/iron.png"
+  },
+    {
+    title: "Capybara",
+    description: "Web platform for centralized and automated management of admissions to major schools and universities.",
+    tech: ["Nest.js", "Next.js", "PostgreSQL"],
+    type: "Saas Application",
+    image : "/capybara.png"
+  },
+  {
     title: "AtlasTawjih",
     description: "Web platform for centralized and automated management of admissions to major schools and universities.",
     tech: ["Nest.js", "Next.js", "PostgreSQL"],
-    type: "Web Platform"
+    type: "Web App",
+    image : "/atlasTawjih.png"
   },
   {
     title: "E-learning Platform",
     description: "Online learning web application using Next.js and YouTube API to allow students to access interactive IT courses via videos.",
     tech: ["Next.js", "YouTube API"],
-    type: "Web App"
+    type: "Web App",
+    image : "/e-learning.png"
   },
   {
     title: "School Bus Tracking",
     description: "Mobile and web app ensuring real-time tracking of school buses to enhance student safety.",
     tech: ["React Native", "Next.js", "Express.js", "MongoDB", "Google Maps API"],
-    type: "Mobile & Web"
+    type: "Mobile & Web platform",
+    image : "/bus.png"
   }
 ];
 

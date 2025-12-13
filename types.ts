@@ -20,6 +20,7 @@ export interface Project {
   description: string;
   tech: string[];
   type?: string;
+  image:string;
 }
 
 export interface Education {

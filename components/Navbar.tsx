@@ -3,7 +3,7 @@ import { Menu, X, Github, Linkedin, Mail } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const NAV_ITEMS = [
-  { name: 'Home', href: '#home' },
+  { name: 'Home', href: '/' },
   { name: 'Experiences', href: '#experiences' },
   { name: 'Skills', href: '#skills' },
   { name: 'Studies', href: '#studies' },
@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
     >
       <div className="container mx-auto px-6 md:px-12 lg:px-24 flex justify-between items-center">
         {/* Logo */}
-        <a href="#home" className="text-2xl font-bold tracking-tighter text-white z-50">
+        <a href="/" className="text-2xl font-bold tracking-tighter text-white z-50">
           YassineEchamkh<span className="text-primary">.me</span>
         </a>
 
